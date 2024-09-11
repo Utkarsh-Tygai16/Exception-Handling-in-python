@@ -13,15 +13,7 @@ Exception handling in Python allows you to manage errors and maintain the normal
   - `try`, `except`, `else`, and `finally`
 - **File Handling**: Managing files with proper exception handling to avoid common errors.
 
-- ## 🚀 Getting Started
 
-Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/exception-handling-python.git
-Navigate to the repository directory:
-bash
-Copy code
-cd exception-handling-python
 Explore the provided code examples and try modifying them to see how different exceptions are handled.
 
 🤝 Contributing
